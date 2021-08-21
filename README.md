@@ -1,3 +1,5 @@
+>by tss note:该包可以用来计算ICR和Miracle score 注意genelist的替换，ICR的不用替换，IE和ID需要替换，及positive（IE）和neigitative（ID）
+
 Calculating MIRACLE Score from Bulk Gene Expression Datasets
 ================
 Tolga Turan
